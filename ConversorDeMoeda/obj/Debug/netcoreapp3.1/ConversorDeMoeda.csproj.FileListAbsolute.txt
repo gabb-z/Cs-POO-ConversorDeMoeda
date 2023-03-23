@@ -1,0 +1,14 @@
+C:\Users\Gabriel\Documents\Curso C#\Exercícios Propostos - POO\ConversorDeMoeda\ConversorDeMoeda\bin\Debug\netcoreapp3.1\ConversorDeMoeda.exe
+C:\Users\Gabriel\Documents\Curso C#\Exercícios Propostos - POO\ConversorDeMoeda\ConversorDeMoeda\bin\Debug\netcoreapp3.1\ConversorDeMoeda.deps.json
+C:\Users\Gabriel\Documents\Curso C#\Exercícios Propostos - POO\ConversorDeMoeda\ConversorDeMoeda\bin\Debug\netcoreapp3.1\ConversorDeMoeda.runtimeconfig.json
+C:\Users\Gabriel\Documents\Curso C#\Exercícios Propostos - POO\ConversorDeMoeda\ConversorDeMoeda\bin\Debug\netcoreapp3.1\ConversorDeMoeda.runtimeconfig.dev.json
+C:\Users\Gabriel\Documents\Curso C#\Exercícios Propostos - POO\ConversorDeMoeda\ConversorDeMoeda\bin\Debug\netcoreapp3.1\ConversorDeMoeda.dll
+C:\Users\Gabriel\Documents\Curso C#\Exercícios Propostos - POO\ConversorDeMoeda\ConversorDeMoeda\bin\Debug\netcoreapp3.1\ConversorDeMoeda.pdb
+C:\Users\Gabriel\Documents\Curso C#\Exercícios Propostos - POO\ConversorDeMoeda\ConversorDeMoeda\obj\Debug\netcoreapp3.1\ConversorDeMoeda.csproj.AssemblyReference.cache
+C:\Users\Gabriel\Documents\Curso C#\Exercícios Propostos - POO\ConversorDeMoeda\ConversorDeMoeda\obj\Debug\netcoreapp3.1\ConversorDeMoeda.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Gabriel\Documents\Curso C#\Exercícios Propostos - POO\ConversorDeMoeda\ConversorDeMoeda\obj\Debug\netcoreapp3.1\ConversorDeMoeda.AssemblyInfoInputs.cache
+C:\Users\Gabriel\Documents\Curso C#\Exercícios Propostos - POO\ConversorDeMoeda\ConversorDeMoeda\obj\Debug\netcoreapp3.1\ConversorDeMoeda.AssemblyInfo.cs
+C:\Users\Gabriel\Documents\Curso C#\Exercícios Propostos - POO\ConversorDeMoeda\ConversorDeMoeda\obj\Debug\netcoreapp3.1\ConversorDeMoeda.csproj.CoreCompileInputs.cache
+C:\Users\Gabriel\Documents\Curso C#\Exercícios Propostos - POO\ConversorDeMoeda\ConversorDeMoeda\obj\Debug\netcoreapp3.1\ConversorDeMoeda.dll
+C:\Users\Gabriel\Documents\Curso C#\Exercícios Propostos - POO\ConversorDeMoeda\ConversorDeMoeda\obj\Debug\netcoreapp3.1\ConversorDeMoeda.pdb
+C:\Users\Gabriel\Documents\Curso C#\Exercícios Propostos - POO\ConversorDeMoeda\ConversorDeMoeda\obj\Debug\netcoreapp3.1\ConversorDeMoeda.genruntimeconfig.cache
